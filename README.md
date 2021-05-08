@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with **finding extra time in a day**
 - ⚡ Fun fact: **I love to coddiwomple 😜**
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1471045859/870/mail.gif?1471045859" width="23"/> Connect with me:
+### <img src="https://emojis.slackmojis.com/emojis/images/1617576678/27300/arrow.gif?1617576678" width="23"/> Connect with me:
 
 [<img align="left" alt="annasabbagh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="annasabbagh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -21,7 +21,7 @@
 
 <br />
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1617668603/27681/script_code.gif?1617668603" width="23"/> Languages and Tools:
+### <img src="https://emojis.slackmojis.com/emojis/images/1617576678/27300/arrow.gif?1617576678" width="23"/> Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
