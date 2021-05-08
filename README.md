@@ -1,15 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Anna 👋
 
 <!--
 **annasabbagh/annasabbagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
 
-- 🔭 I’m currently working on becoming an excellent Fullstack Developer
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on Web development projects to practice my skills
-- 🤔 I’m looking for help with finding extra time
-- ⚡ Fun fact: I love to coddiwomple <img src="https://emojis.slackmojis.com/emojis/images/1565885142/6184/mickeywink.gif?1565885142" width="20"/>
+- 🔭 I’m currently working on **becoming an excellent Fullstack Developer**
+- 🌱 I’m currently learning **JavaScript**
+- 👯 I’m looking to collaborate on **Web development projects to practice my skills**
+- 🤔 I’m looking for help with **finding extra time in a day**
+- ⚡ Fun fact: **I love to coddiwomple 😜**
 
 ### Connect with me:
 
@@ -33,6 +33,10 @@
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
 <!-- <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
 
 <!-- <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
@@ -42,11 +46,6 @@
 <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
 
 <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /> -->
-
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
 <!-- <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> -->
 
 <br />
