@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Web development projects to practice my skills
 - 🤔 I’m looking for help with finding extra time
-- ⚡ Fun fact: I love to coddiwomple <img src="https://emojis.slackmojis.com/emojis/images/1565885142/6184/mickeywink.gif?1565885142" width="28"/>
+- ⚡ Fun fact: I love to coddiwomple <img src="https://emojis.slackmojis.com/emojis/images/1565885142/6184/mickeywink.gif?1565885142" width="15"/>
 
 ### Connect with me:
 
@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 
-<img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -55,4 +55,4 @@
 [instagram]: https://www.instagram.com/la_bonneville/
 [linkedin]: https://www.linkedin.com/in/annasabbagh/
 [telegram]: https://t.me/annasabbagh
-[gmail]: sabbaghzadeh.anna@gmail.com
+[gmail]: mailto:sabbaghzadeh.anna@gmail.com
