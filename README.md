@@ -11,17 +11,23 @@
 - 🤔 I’m looking for help with **finding extra time in a day**
 - ⚡ Fun fact: **I love to coddiwomple 😜**
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1617576678/27300/arrow.gif?1617576678" width="23"/> Connect with me:
+### <img src="https://emojis.slackmojis.com/emojis/images/1616310538/22629/arrow_right.gif?1616310538" width="23"/> Connect with me:
 
-[<img align="left" alt="annasabbagh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="annasabbagh | Instagram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" />][gmail]
+[<img align="left" alt="annasabbagh | LinkedIn" width="22px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://emojis.slackmojis.com/emojis/images/1571911709/6804/globe.png?1571911709" />][website]
+[<img align="left" alt="annasabbagh | Instagram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1538061120/4724/telegram.png?1538061120" />][telegram]
+[<img align="left" alt="annasabbagh | Instagram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png?1467306728" />][instagram]
+
+<!-- [<img align="left" alt="annasabbagh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="annasabbagh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="annasabbagh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
-[<img align="left" alt="annasabbagh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="annasabbagh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1617576678/27300/arrow.gif?1617576678" width="23"/> Languages and Tools:
+### <img src="https://emojis.slackmojis.com/emojis/images/1616310538/22629/arrow_right.gif?1616310538" width="23"/> Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
