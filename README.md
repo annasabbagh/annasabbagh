@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Web development projects to practice my skills
 - 🤔 I’m looking for help with finding extra time
-- ⚡ Fun fact: I love to coddiwomple <img src="https://emojis.slackmojis.com/emojis/images/1565885142/6184/mickeywink.gif?1565885142" width="15"/>
+- ⚡ Fun fact: I love to coddiwomple <img src="https://emojis.slackmojis.com/emojis/images/1565885142/6184/mickeywink.gif?1565885142" width="20"/>
 
 ### Connect with me:
 
