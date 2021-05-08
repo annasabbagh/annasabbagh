@@ -1,11 +1,11 @@
-### Hi there, I'm Anna <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430 " width="28"/>
+### Hi there, I'm Anna <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430 " width="25"/>
 
 <!--
 **annasabbagh/annasabbagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
 
-- 🔭 I’m currently working on **becoming an excellent Fullstack Developer**
+- 🔭 I’m currently working on **becoming a Full Stack Developer**
 - 🌱 I’m currently learning **JavaScript**
 - 👯 I’m looking to collaborate on **Web development projects to practice my skills**
 - 🤔 I’m looking for help with **finding extra time in a day**
